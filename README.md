@@ -1,0 +1,2 @@
+# globedemo
+ok get
