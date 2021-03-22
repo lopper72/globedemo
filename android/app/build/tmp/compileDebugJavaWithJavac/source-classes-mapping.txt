@@ -1,0 +1,14 @@
+com/globe/ReactNativeFlipper.java
+ com.globe.ReactNativeFlipper
+ com.globe.ReactNativeFlipper$1
+ com.globe.ReactNativeFlipper$2
+ com.globe.ReactNativeFlipper$2$1
+com/globe/MainActivity.java
+ com.globe.MainActivity
+com/globe/MainApplication.java
+ com.globe.MainApplication
+ com.globe.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/globe/BuildConfig.java
+ com.globe.BuildConfig
